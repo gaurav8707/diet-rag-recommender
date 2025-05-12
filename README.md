@@ -35,7 +35,7 @@ Below is a screenshot of the NutriGuard user interface:
 | Layer        | Tool/Service                                                                                             |
 | ------------ | -------------------------------------------------------------------------------------------------------- |
 | Backend      | FastAPI                                                                                                  |
-| Frontend     | React (Next.js, CSS-only styling) \[CORS-ready]                                                          |
+| Frontend     | React (CSS-only styling) \[CORS-ready]                                                          |
 | Embedding    | SentenceTransformer (all-mpnet)                                                                          |
 | Vector Store | FAISS (Facebook AI Similarity Search)                                                                    |
 | LLM API      | Groq LLaMA-3 70B                                                                                         |
