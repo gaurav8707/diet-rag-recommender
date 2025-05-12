@@ -23,6 +23,13 @@ And returns:
 
 ---
 
+## 🖼 User Interface
+
+Below is a screenshot of the NutriGuard user interface:
+
+![image](https://github.com/user-attachments/assets/239d4b72-09df-4010-8046-e136be1e419b)
+
+
 ## ⚙️ Tech Stack
 
 | Layer        | Tool/Service                                                                                             |
