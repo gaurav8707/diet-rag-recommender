@@ -125,7 +125,7 @@ Open [http://localhost:8000/docs](http://localhost:8000/docs) to test the API vi
 Navigate to your frontend directory (if applicable):
 
 ```bash
-cd frontend
+cd nutri-ui
 
 # Install dependencies
 npm install
