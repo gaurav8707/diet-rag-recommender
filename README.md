@@ -90,7 +90,7 @@ diet-rag/
 ├── final_diet_dataset.csv   # Master food dataset (local only)
 ├── expanded_300_diet_guideline_dataset.jsonl  # Expert JSON chunks
 ├── FoodData_Central.docx    # USDA food guidance document
-└── frontend/                # React frontend code (optional)
+└── frontend/                # React frontend code 
 ```
 
 ---
